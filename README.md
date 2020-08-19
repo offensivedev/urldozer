@@ -17,7 +17,7 @@ $ echo "https://example.com/admin/?search=test&?file=index.php" | urldozer -para
 
 ## Example use cases
 - Create a parameter wordlist from URLs fetched gau/waybackurls
-- Extract URL paths to check for vulnerabilities across different enviornment
+- Extract URL paths to check for vulnerabilities across different environment
 - Find all domains used in list of URLs by piping the output like `| sort -u`
 
 ## TODO
